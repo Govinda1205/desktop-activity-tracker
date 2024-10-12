@@ -1,0 +1,10 @@
+
+awscli==1.35.4
+boto3==1.35.38
+pillow==10.4.0
+PyAutoGUI==0.9.54
+pynput==1.7.7
+pytest==8.3.3
+pytz==2024.2
+requests==2.32.3
+
